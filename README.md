@@ -9,3 +9,5 @@
 |5|[Longest Palindromic Substring](https://leetcode.com/problems/longest-palindromic-substring/)| [Java](solution/src/LongestPalindromicSubstring.java)|
 |6|[ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)| [Java](solution/src/ZigZagConversion.java)|
 |7|[Reverse Integer](https://leetcode.com/problems/reverse-integer/)| [Java](solution/src/ReverseInteger.java)|
+|8|[String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)| [Java](solution/src/String2Integer.java)|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [Java](solution/src/RomanToInteger.java)|
